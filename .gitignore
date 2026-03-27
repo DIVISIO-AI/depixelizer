@@ -1,0 +1,14 @@
+bin
+gen
+.DS_Store
+*.apk
+.settings
+proguard
+.gradle
+build
+.idea
+*.iml
+bin
+local.properties
+target
+example_images/
