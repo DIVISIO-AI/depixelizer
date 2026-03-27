@@ -14,11 +14,11 @@ To build it, you need a JDK for JAVA 11 or higher. To build, just call the inclu
 
 To run the command line application: 
 
-    java -jar target/depixelizer-1.0.0.jar FILE_NAME
+    java -jar depixelizer-1.0.0.jar FILE_NAME
 
 To run the debug UI: 
 
-    java -cp target/depixelizer-1.0.0.jar divisio.depixelizer.SwingUi
+    java -cp depixelizer-1.0.0.jar divisio.depixelizer.SwingUi
 
 A note on Agentic Coding: The algorithm is completely hand coded, the command line application and UI were quickly thrown together using Roo Code & Claude Sonnett 4.5
 
